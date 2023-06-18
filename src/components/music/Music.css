@@ -1,0 +1,29 @@
+.card{
+  margin-top: 50px;
+}
+.music-img {
+  width: 100%;
+  height: 10em;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.btn-play {
+  background-color: #da0037;
+  transition: 500ms all;
+}
+.play {
+  margin-top: 7px;
+  margin-left: 7px;
+  transition: 500ms all;
+  color: black;
+}
+.btn-play:hover .play {
+ color: #da0037;
+ transition: 500ms all;
+
+}
+.btn-play:hover{
+  transition: 500ms all;
+background-color: black;
+}

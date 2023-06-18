@@ -1,0 +1,22 @@
+.resume {
+  /* align-items: center; */
+  width: 100%;
+  background-color: #b4b3b3;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.content {
+  width: 30em;
+}
+.content > p {
+  width: 25em;
+}
+.experience {
+  width: 30em;
+}
+.skills{
+  height: 90vh;
+  background-color: lightblue;
+}

@@ -1,0 +1,25 @@
+.nav-wrapper {
+  background-color: #303030;
+  padding:10px;
+
+}
+.navigation {
+  height:90px;
+  background-color: transparent;
+
+}
+.guitar:hover{
+  color: #DA0037 !important;
+  transition: 500ms all;
+  
+}
+.guitar{
+  margin-left: 50px;
+}.guitar:hover{
+  color: #DA0037 !important;
+  transition: 500ms all;
+}
+.listMenu:hover{
+  color: #DA0037 !important;
+  transition: 500ms all;
+}
